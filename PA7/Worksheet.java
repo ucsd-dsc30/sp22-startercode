@@ -47,7 +47,7 @@ public class Worksheet {
         /*
         TODO: store heap's array status after multiples operations - operation i will be stored at index i-1
          */
-        int[][] output = new int[5][11];
+        int[][] output = new int[5][12];
         return output;
     }
 }
